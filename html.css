@@ -3,7 +3,6 @@
     height: 200px; /* Adjusted to 200px; 200% might make it too large */
     background-image: url('https://ae-pic-a1.aliexpress-media.com/kf/Ace5e2414107143beb5518a82f82699f36/Dancing-Witches-Art-Prints-Vintage-Gothic-Posters-Dark-Academia-Aesthetic-Canvas-Painting-Witchy-Wall-Pictures-Living.jpg_640x640Q90.jpg_.webp');
     background-size: cover;
-    background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
