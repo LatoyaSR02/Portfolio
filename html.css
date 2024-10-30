@@ -1,7 +1,7 @@
 #banner {
     width: 100%;
     height: 200px; /* Adjusted to 200px; 200% might make it too large */
-    background-image:url('https://render.fineartamerica.com/images/rendered/default/flat/puzzle/images/artworkimages/medium/3/dark-moody-wall-art-skull-butterflies-and-flowers-dark-academia-decor-dreamframer-art.jpg?&targetx=-62&targety=0&imagewidth=1125&imageheight=750&modelwidth=1000&modelheight=750&backgroundcolor=522D17&orientation=0&producttype=puzzle-18-24&brightness=11&v=6');
+    background-image:url('butterfly');
     display: flex;
     align-items: center;
     justify-content: center;
