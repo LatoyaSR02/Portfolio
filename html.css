@@ -53,6 +53,11 @@
     right:900px;
     
 }
+#computer{
+    height:200px;
+    width:350px;
+    top:200px;
+    }
 .container{
 	border:2px #a59797 solid;
 	position: relative;
