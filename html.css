@@ -42,7 +42,7 @@
 #gold{
     position:absolute;
     top:160px;
-    left:600px;
+    left:800px;
 }
 #code{
     height:200px;
@@ -51,6 +51,6 @@
     top:900px;
 }
 #resume{
-    right:500px;
+    right:900px;
     float:left;
     ]
