@@ -47,12 +47,10 @@
 #code{
     height:200px;
     width:350px;
-    right:30px;
-    top:750px;
-}
+    }
 #resume{
     right:900px;
-    float:left;
+    
 }
 .container{
 	border:2px #a59797 solid;
