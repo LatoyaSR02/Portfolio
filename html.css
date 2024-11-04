@@ -86,7 +86,7 @@
   top:20px;
 }
 .container{
-	border:2px #a59797 solid;
+	border:2px #daa520 solid;
 	position: relative;
   box-shadow: 8px 3px 10px 1px rgb(165, 137, 200);
 	top: 2px;
@@ -94,7 +94,7 @@
 	padding: 10px;
 	height: 700px;
 	overflow: hidden;
-	background-color:rgba(220,208,255,0.4);
+	background-color:rgba(0,0,0,0.4);
 }
 .left{
   border:2px #a59797 solid;
