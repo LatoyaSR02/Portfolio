@@ -85,3 +85,114 @@
   text-shadow: 1px 1px rgba(187,190,254);
   top:20px;
 }
+.container{
+	border:2px #a59797 solid;
+	position: relative;
+  box-shadow: 8px 3px 10px 1px rgb(165, 137, 200);
+	top: 2px;
+	margin: 15px;
+	padding: 10px;
+	height: 700px;
+	overflow: hidden;
+	background-color:rgba(220,208,255,0.4);
+}
+.left{
+  border:2px #a59797 solid;
+  background-color:rgba(204,220,253);
+  font-size:0.9em;
+  width: 48%;
+  min-height:300px;
+  position:absolute;
+  left:5px;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 1px 1px rgba(187,190,254);
+  background-image:url(purple.png);
+
+}
+iframe{
+  margin:10px;
+  padding:3px;
+}
+.header {
+  text-align: center;
+  background:rgba(177,156,217);
+  color: white;
+  font-size: 30px;
+  margin: 15px;
+  padding: 10px;
+  font-style: oblique;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 1px 1px rgba(187,190,254);
+}
+.right2{
+  border:2px purple dashed;
+  background-color:#faf9fb;
+  font-size:0.9em;
+  width: 48%;
+  min-height:300px;
+  position:absolute;
+  right:5px;
+  overflow:hidden;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 1px 1px rgba(187,190,254);
+}
+.left2{
+  border:2px purple dashed;
+  background-color:rgba(204,220,253);
+  font-size:0.9em;
+  width: 33%;
+  min-height:290px;
+  position:absolute;
+  left:5px;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 1px 1px rgba(187,190,254);
+  background-image:url(https://media.istockphoto.com/id/1449334081/photo/statue-of-lady-justice-on-desk-of-a-judge-or-lawyer.jpg?s=612x612&w=0&k=20&c=139ZS1ycMRXBqnPEWV3l08zBLNe40WPiAudVnmeQrl8=);
+  background-size:contain;
+  background-repeat:no-repeat;
+
+}
+.left3{
+  border:2px purple dashed;
+  background-color:rgba(204,220,253);
+  font-size:0.9em;
+  width: 33%;
+  min-height:245px;
+  position:absolute;
+  left:5px;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 1px 1px rgba(187,190,254);
+  background-image:url(https://www.pacificnews.org/wp-content/uploads/2021/08/How-to-become-a-journalist-2.jpg);
+  background-size:contain;
+  background-repeat:no-repeat;
+
+}
+.left4{
+  border:2px purple dashed;
+  background-color:rgba(204,220,253);
+  font-size:0.9em;
+  width: 33%;
+  min-height:195px;
+  position:absolute;
+  left:5px;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 1px 1px rgba(187,190,254);
+  background-image:url(https://www.premiermedicalhv.com/wp-content/uploads/2019/01/shutterstock_164722412-1100x490.jpg);
+  background-size:contain;
+  background-repeat:no-repeat;
+
+}
+.left5{
+  border:2px purple dashed;
+  background-color:rgba(204,220,253);
+  font-size:0.9em;
+  width: 20%;
+  min-height:200px;
+  position:absolute;
+  left:5px;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 1px 1px rgba(187,190,254);
+  background-image:url(https://img.freepik.com/premium-photo/programming-languages-tech-purple-background-with-code-elements-lines-light_272306-166.jpg);
+  background-size:contain;
+  background-repeat:no-repeat;
+
+}
