@@ -45,8 +45,8 @@
 }
 #latoya{
 	position:absolute;
-	top:410px;
-	left:500px;
+	top:420px;
+	left:510px;
 }
 
 #gold{
@@ -221,7 +221,7 @@ border:2px #540887 dashed;
   min-height:300px;
   position:absolute;
   left:100px;
-  top:100px;
+  top:300px;
   overflow:hidden;
   font-family: 'Courier New', Courier, monospace;
   text-shadow: 1px 1px rgba(187,190,254);
