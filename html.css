@@ -65,6 +65,7 @@
     position:absolute;
     right:420px;
     top:450px;
+    box-shadow: 8px 3px 10px 1px #570987;
 }
 
 #computer{
