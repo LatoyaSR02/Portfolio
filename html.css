@@ -51,8 +51,9 @@
     position:absolute;
     }
 #resume{
+    position:absolute;
     right:900px;
-    margin-top:80px;
+    top:80px;
 }
 #computer{
     height:200px;
