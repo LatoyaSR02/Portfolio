@@ -57,11 +57,11 @@
 }
 #computer{
     height:400px;
-    width:350px;
+    width:420px;
     top:600px;
     position:absolute;
    right:200px;
-   left:300px;
+   left:400px;
     }
 .container{
 	border:2px #a59797 solid;
