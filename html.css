@@ -212,3 +212,51 @@ iframe{
   font-family: 'Courier New', Courier, monospace;
   text-shadow: 1px 1px rgba(187,190,254);
 }
+#aboutme{
+border:2px #540887 dashed;
+  background-color:#faf9fb;
+  font-size:0.9em;
+  width: 48%;
+  min-height:300px;
+  position:absolute;
+  right:50px;
+  overflow:hidden;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 1px 1px rgba(187,190,254);
+}
+#aboutme2{
+border:2px #540887 dashed;
+  background-color:#faf9fb;
+  font-size:0.9em;
+  width: 48%;
+  min-height:300px;
+  position:absolute;
+  right:5px;
+  overflow:hidden;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 1px 1px rgba(187,190,254);
+}
+#aboutme3{
+border:2px #540887 dashed;
+  background-color:#faf9fb;
+  font-size:0.9em;
+  width: 48%;
+  min-height:300px;
+  position:absolute;
+  right:5px;
+  overflow:hidden;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 1px 1px rgba(187,190,254);
+}
+#aboutme4{
+border:2px #540887 dashed;
+  background-color:#faf9fb;
+  font-size:0.9em;
+  width: 48%;
+  min-height:300px;
+  position:absolute;
+  right:5px;
+  overflow:hidden;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 1px 1px rgba(187,190,254);
+}
