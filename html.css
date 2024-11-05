@@ -59,7 +59,7 @@
 #resume{
     position:absolute;
     right:900px;
-    top:800px;
+    top:1000px;
 }
 #computer{
     height:400px;
@@ -88,7 +88,7 @@ box-shadow: 8px 3px 10px 1px #570987;
   width: 48%;
   min-height:300px;
   position:absolute;
-  right:5px;
+  right:20px;
   overflow:hidden;
   font-family: 'Courier New', Courier, monospace;
   text-shadow: 1px 1px rgba(187,190,254);
