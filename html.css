@@ -39,6 +39,10 @@
     color:white;
     text-align:center;
 }
+#overview{
+	float:right;
+	color:white;
+}
 
 #gold{
     position:absolute;
