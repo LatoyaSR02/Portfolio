@@ -90,7 +90,7 @@
 	position: relative;
   box-shadow: 8px 3px 10px 1px rgb(75,0,130);
 	top: 2px;
-	margin: 15px;
+        margin-top:80px;
 	padding: 10px;
 	height: 700px;
 	overflow: hidden;
