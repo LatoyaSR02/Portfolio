@@ -56,11 +56,12 @@
     top:300px;
 }
 #computer{
-    height:200px;
+    height:400px;
     width:350px;
     top:600px;
     position:absolute;
-   right:400px;
+   right:200px;
+   left:300px;
     }
 .container{
 	border:2px #a59797 solid;
