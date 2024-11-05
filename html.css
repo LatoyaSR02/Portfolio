@@ -42,7 +42,7 @@
 #gold{
     position:absolute;
     top:160px;
-    left:300px;
+    left:320px;
 }
 #code{
     height:200px;
@@ -52,7 +52,7 @@
     }
 #resume{
     right:900px;
-    margin-top:20px;
+    margin-top:50px;
 }
 #computer{
     height:200px;
