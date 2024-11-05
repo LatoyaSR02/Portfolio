@@ -39,6 +39,10 @@
     color:white;
     text-align:center;
 }
+#overview{
+	color:white;
+	margin-right:30px;
+}
 #gold{
     position:absolute;
     top:160px;
