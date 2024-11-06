@@ -218,11 +218,11 @@ iframe{
 border:2px #540887 dashed;
   background-color:#faf9fb;
   font-size:0.9em;
-  width:200px;
-  min-height:500px;
+  width:300px;
+  min-height:200px;
   position:absolute;
   left:200px;
-  top:500px;
+  top:700px;
   overflow:hidden;
   font-family: 'Courier New', Courier, monospace;
   text-shadow: 1px 1px rgba(187,190,254);
