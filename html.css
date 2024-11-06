@@ -269,3 +269,49 @@ border:2px #540887 dashed;
   font-family: 'Courier New', Courier, monospace;
   text-shadow: 1px 1px rgba(187,190,254);
 }
+/* Footer container styling */
+#contact-footer {
+    background-color: #333;
+    color: #faf9fb;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Footer content styling */
+#contact-footer .footer-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Heading styling */
+#contact-footer h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+/* Contact links styling */
+#contact-footer a {
+    color: #a59797; /* Link color */
+    text-decoration: none;
+    margin: 0 5px;
+    font-weight: bold;
+}
+
+/* Social links styling */
+#contact-footer .social-links a {
+    display: inline-block;
+    margin: 5px;
+    padding: 8px 12px;
+    background-color: #540887;
+    color: #faf9fb;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+/* Hover effect for links */
+#contact-footer .social-links a:hover {
+    background-color: #333; /* Changes color on hover */
+    color: #fff;
+}
+
