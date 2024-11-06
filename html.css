@@ -226,6 +226,7 @@ border:2px #540887 dashed;
   overflow:hidden;
   font-family: 'Courier New', Courier, monospace;
   text-shadow: 1px 1px rgba(187,190,254);
+ box-shadow: 8px 3px 10px 1px #570987;
 }
 #aboutme2{
 border:2px #540887 dashed;
@@ -239,6 +240,7 @@ border:2px #540887 dashed;
   overflow:hidden;
   font-family: 'Courier New', Courier, monospace;
   text-shadow: 1px 1px rgba(187,190,254);
+  box-shadow: 8px 3px 10px 1px #570987;
 }
 #aboutme3{
 border:2px #540887 dashed;
@@ -252,6 +254,7 @@ border:2px #540887 dashed;
   overflow:hidden;
   font-family: 'Courier New', Courier, monospace;
   text-shadow: 1px 1px rgba(187,190,254);
+  box-shadow: 8px 3px 10px 1px #570987;
 }
 #aboutme4{
 border:2px #540887 dashed;
