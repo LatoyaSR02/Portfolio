@@ -248,6 +248,7 @@ border:2px #540887 dashed;
   min-height:200px;
   position:absolute;
   right:5px;
+  top:600px;
   overflow:hidden;
   font-family: 'Courier New', Courier, monospace;
   text-shadow: 1px 1px rgba(187,190,254);
