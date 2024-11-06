@@ -43,6 +43,10 @@
 	float:right;
 	color:white;
 }
+#portfolio{
+	box-shadow: 8px 3px 10px 1px #570987;
+	margin-top:100px;
+}
 #latoya{
 	position:absolute;
 	top:420px;
