@@ -46,7 +46,7 @@
 #latoya{
 	position:absolute;
 	top:420px;
-	left:510px;
+	left:600px;
 }
 
 #gold{
@@ -217,7 +217,7 @@ iframe{
 border:2px #540887 dashed;
   background-color:#faf9fb;
   font-size:0.9em;
-  width:150px;
+  width:200px;
   min-height:500px;
   position:absolute;
   left:200px;
