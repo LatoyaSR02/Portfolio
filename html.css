@@ -228,6 +228,7 @@ iframe{
   overflow:hidden;
   font-family: 'Courier New', Courier, monospace;
   text-shadow: 1px 1px rgba(187,190,254);
+  text-align:center; 
 }
 #aboutme{
 border:2px #540887 dashed;
