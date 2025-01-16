@@ -47,6 +47,7 @@ body{
 .main{
     color:white;
     text-align:center;
+    font-weight:bold;
 }
 #overview{
 	float:right;
